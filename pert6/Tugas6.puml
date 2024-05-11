@@ -1,0 +1,32 @@
+@startuml pert5
+start
+:Initialize Variables;
+while (pilih !='5') is (control statement)
+        :DAFTAR MENU JUALAN;
+        :1. Teh
+        2. Kopi
+        3. Cireng
+        4. Batal Order;
+        :Input (pilih);
+        if (pilih == '1') then (case 1)
+                :Harga 1 Teh;
+                :Input qty Teh;
+                :Call Total harga;
+        else if (pilih == '2') then (case 2)
+                :Harga 1 Kopi;
+                :Input qty Kopi;
+                :Call total harga;
+        else if (pilih == '3') then (case 3)
+                :Harga Cireng;
+                :Input qty Cireng;
+                :Call total harga;
+        else if (pilih == '4') then (case 4)
+                :Batal Order;
+        else
+                :Display "Menu tidak tersedia!";
+        endif
+endwhile (control statement)
+:Display "EXIT";
+stop
+
+@enduml
