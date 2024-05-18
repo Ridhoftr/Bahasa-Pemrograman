@@ -26,7 +26,9 @@
 	return 0;
 }
 ```
-### Studi kasus:
-### Berdasarkan soal essay no 4.
-### Buatlah:
-### Diagram Alur/Flow yang sesuai dengan source yang anda lengkapi
+# **JAWABAN**
+### (essay4.cpp)
+# STUDI KASUS
+### Berdasarkan soal essay no 4. Buatlah: Diagram Alur/Flow yang sesuai dengan source yang anda lengkapi
+# JAWABAN
+### (studikasus.puml)
