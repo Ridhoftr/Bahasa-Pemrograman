@@ -15,6 +15,7 @@ int main() {
     int choice;
     cout << "Masukan dua angka: ";
     cin >> num1 >> num2;
+    cout << "Menu" <<endl;
     cout << "1. Tambah\n2. Kurang\n3. Kali\n4. Bagi\nMasukan pilihan anda: ";
     cin >> choice;
     switch (choice) {
@@ -41,7 +42,7 @@ int main() {
 }
 
 void menu() {
-    cout << "Welcome to Simple Calculator!\n";
+    cout << "KALKULATOR\n";
 }
 
 int tambah(int num1, int num2) {
