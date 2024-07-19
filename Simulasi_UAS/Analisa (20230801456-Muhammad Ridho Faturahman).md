@@ -2,7 +2,7 @@
 ### Nama : Muhammad Ridho Faturahman
 ### NIM : 20230801456
 
-## 1. Understanding
+## 1. Pemahaman
 Pembelian adalah proses memperoleh barang atau jasa dengan imbalan uang atau bentuk pembayaran lainnya. Ini bisa mencakup berbagai aktivitas, mulai dari membeli barang di toko, melakukan transaksi online, hingga mengadakan kontrak untuk layanan tertentu. Pembelian juga melibatkan pertimbangan seperti harga, kualitas, dan kebutuhan konsumen. Dalam konteks bisnis, pembelian seringkali mengacu pada pengadaan barang atau jasa yang diperlukan untuk operasi perusahaan.
 
 ### 1.1 Apa Itu Pembelian?
@@ -50,3 +50,12 @@ Pembelian adalah proses membeli barang atau jasa dari penjual dengan tujuan meme
 - **Penerimaan barang/jasa** : Setelah pembayaran, barang atau jasa diterima oleh pembeli.
 
 - **Pascapembelian** : Bisa melibatkan proses seperti pengembalian, garansi, atau pelayanan purna jual jika ada masalah dengan barang atau jasa.
+
+## 2. Kesimpulan
+Pembelian adalah proses multifaset yang melibatkan berbagai langkah dan pihak, dirancang untuk memenuhi kebutuhan atau keinginan pembeli. Proses ini dapat dilakukan di berbagai tempat dan waktu, serta melibatkan berbagai alasan dan metode pembayaran. Memahami semua aspek ini dapat membantu dalam melakukan pembelian yang lebih efisien dan memuaskan.
+
+
+
+
+
+
